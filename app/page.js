@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Got started by editing&nbsp;
+          Started by editing&nbsp;
           <code className={styles.code}>app/page.js</code>
         </p>
         <div>
